@@ -1,0 +1,9 @@
+.DS_STORE
+*.log
+*.swp
+!.gitkeep
+docs/
+node_modules/
+sandbox/public/assets/bundle/
+spec/fixtures/assets/bundle/
+spec/coverage/
